@@ -6,14 +6,6 @@
   <artifactId>flutter_debug</artifactId>
   <version>1.0</version>
   <packaging>aar</packaging>
-  <distributionManagement>
-    <relocation>
-      <groupId>com.example.maven_push</groupId>
-      <artifactId>flutter</artifactId>
-      <version>1.0</version>
-      <message>Use classifiers rather than _variant for new publish plugin</message>
-    </relocation>
-  </distributionManagement>
   <dependencies>
     <dependency>
       <groupId>io.flutter</groupId>
