@@ -6,7 +6,6 @@
   <groupId>com.example.maven_push</groupId>
   <artifactId>flutter_debug</artifactId>
   <version>1.0</version>
-  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>io.flutter</groupId>
